@@ -1,6 +1,6 @@
 # AI Transformation Portfolio
 
-![Portfolio Overview](overview.png)
+![Portfolio Overview](OVERVIEW.png)
 
 안녕하세요. 데이터와 인공지능을 활용해 실제 문제를 정의하고 해결하는 AI 전공 석사과정 이지원입니다.
 
